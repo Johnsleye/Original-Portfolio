@@ -217,3 +217,15 @@ input[type=submit] {
   background: #4aaaa5;
   border: 0 none;
 }
+#links {
+  text-align: center;
+  width: 100%;
+  display: flex;
+  flex-direction: column-reverse;
+}
+div a {
+  color:  #999;
+  background-color: transparent;
+  text-decoration: none;
+}
+
